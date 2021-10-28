@@ -1,0 +1,5 @@
+﻿  ui_loop.cpp
+D:\ForStudy\Desktop\C++\ui_loop\ui_loop.cpp(25,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ForStudy\Desktop\C++\ui_loop\ui_loop.cpp(34,13): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\ForStudy\Desktop\C++\ui_loop\ui_loop.cpp(45,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ui_loop.vcxproj -> D:\ForStudy\Desktop\C++\ui_loop\Debug\ui_loop.exe
