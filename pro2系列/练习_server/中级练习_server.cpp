@@ -62,8 +62,10 @@ void make_fdlist(socket_list* list, fd_set* fd_list)
 			FD_SET(list->socket_array[i], fd_list);
 		}
 	}
-
 };
+
+
+
 int main(int argc, char* argv[])
 {
 	SOCKET s, sock;
